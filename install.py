@@ -12,7 +12,7 @@ import getopt
 import filecmp
 
 openresty_pkg_url = 'https://openresty.org/download/openresty-1.11.2.4.tar.gz'
-openresty_pkg = 'openresty-*.tar.gz'
+openresty_pkg = 'openresty-1.11.2.4.tar.gz'
 
 work_path = os.getcwd()
 
